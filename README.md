@@ -19,7 +19,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=radical" alt="GitHub Streak Stats" width="49%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=radical" alt="GitHub Streak Stats" width="49%" /> -->
 </p>
 
 <p align="center">
