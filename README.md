@@ -28,14 +28,6 @@
 
 ---
 
-### 🚀 Open Source Contributions
-- 🔧 **Total Commits:** ![GitHub Commits](https://badgen.net/github/commits/SoumitraDas1/)
-- 🌍 **Public Repositories:** ![GitHub Repos](https://badgen.net/github/repos/SoumitraDas1/)
-- ⭐ **Open Source Stars:** ![GitHub Stars](https://badgen.net/github/stars/SoumitraDas1/)
-- 🔗 **Forks:** ![GitHub Forks](https://badgen.net/github/forks/SoumitraDas1/)
-
----
-
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/soumitra-das-737670247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
