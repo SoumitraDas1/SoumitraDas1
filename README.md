@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumitra Das</h1>
-<h3 align="center">A Passionate Full Stack Developer and Machine Learning Enthusiast 👨🏻‍💻 from India</h3>
+<h3 align="center">🎓 Ph.D. Research Scholar in Computer Science 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumitradas1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,10 +10,10 @@
 ---
 
 ### 🌟 About Me
-- 👨🏻‍💻 I am a Full Stack Developer and Machine Learning Enthusiast with a strong passion for research and development.
-- 👯 I am seeking collaboration opportunities on open-source projects and advanced research in Machine Learning.
+- 👨🏻‍💻 🎓 I am a Ph.D. Research Scholar in Computer Science with a strong focus on Machine Learning and Deep Learning.
+- 👨🏻‍💻 Passionate about research, development, and building intelligent systems that solve real-world problems.
+- 🤝 Open to collaborations on open-source projects, academic research, and applied AI/ML initiatives.
 - 📫 Reach me at **bittujbr@gmail.com**.
-
 ---
 
 ### 📈 GitHub Stats
