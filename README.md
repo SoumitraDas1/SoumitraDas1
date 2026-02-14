@@ -1,58 +1,90 @@
-<h1 align="center">Hi 👋, I'm Soumitra Das</h1>
-<h3 align="center">🎓 Ph.D. Research Scholar in Computer Science 🇮🇳</h3>
+<h1 align="center">
+  Hi 👋, I'm Soumitra Das
+</h1>
+
+<h3 align="center">
+  🎓 Ph.D. Research Scholar in Computer Science | 🇮🇳 India  
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumitradas1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SoumitraDas1?label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/SoumitraDas1?label=GitHub%20Stars" alt="GitHub Stars" />
-</p>
-
----
-
-### 🌟 About Me
-- 👨🏻‍💻 🎓 I am a Ph.D. Research Scholar in Computer Science with a strong focus on Machine Learning and Deep Learning.
-- 👨🏻‍💻 Passionate about research, development, and building intelligent systems that solve real-world problems.
-- 🤝 Open to collaborations on open-source projects, academic research, and applied AI/ML initiatives.
-- 📫 Reach me at **bittujbr@gmail.com**.
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=radical" alt="GitHub Streak Stats" width="49%" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Machine+Learning+Researcher;Deep+Learning+Practitioner;AI+%7C+Data+Science+Enthusiast;Open+Source+Contributor" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitraDas1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=SoumitraDas1&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/SoumitraDas1?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/SoumitraDas1?label=Stars&style=flat&color=yellow" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/soumitra-das-737670247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/soumitradas1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://fb.com/সৌমিত্র দাস" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/bongmitro_arts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@bongmitrosoum" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/soum1das" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/bittujbr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/soum1das" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/soum1das" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/soumitradassd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+## 🌟 About Me
+- 🎓 Ph.D. Research Scholar in **Computer Science**
+- 🤖 Research focus: **Machine Learning, Deep Learning & AI**
+- 🧠 Interested in **applied AI, data-driven systems & research publications**
+- 🤝 Open to **research collaboration & open-source contributions**
+- 📫 Email: **bittujbr@gmail.com**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitraDas1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
-- **Backend:** PHP
-- **Database:** MySQL, PostgreSQL
-- **Libreary:** TensorFlow, Keras, Pandas, Matplotlib etc.
-- **Languages:** Python, JavaScript, C
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumitraDas1&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumitraDas1&theme=tokyo-night&hide_border=true" />
+</p>
 
+---
 
+## 🛠️ Tech Stack
 
+### 🔹 Programming Languages
+`Python` `C` `JavaScript`
+
+### 🔹 ML / DL & Data Science
+`TensorFlow` `Keras` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+
+### 🔹 Web & Backend
+`HTML` `CSS` `Bootstrap 5` `PHP`
+
+### 🔹 Databases
+`MySQL` `PostgreSQL`
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=1WGjO9EAAAAJ&hl" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/soumitra-das-737670247"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="https://kaggle.com/soumitradas1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
+  <a href="https://www.leetcode.com/soum1das"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+  <a href="https://codeforces.com/profile/soum1das"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/></a>
+  <a href="https://www.hackerrank.com/bittujbr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
+  <a href="https://www.youtube.com/c/@bongmitrosoum"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Research is creating new knowledge."</i>
+</p>
