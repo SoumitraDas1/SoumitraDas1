@@ -56,19 +56,10 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming Languages
-`Python` `C` `JavaScript`
+<p >
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,tensorflow,keras,php,mysql,postgres,html,css,bootstrap" />
+</p>
 
-### 🔹 ML / DL & Data Science
-`TensorFlow` `Keras` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
-
-### 🔹 Web & Backend
-`HTML` `CSS` `Bootstrap 5` `PHP`
-
-### 🔹 Databases
-`MySQL` `PostgreSQL`
-
----
 
 ## 🤝 Connect With Me
 <p align="center">
@@ -85,6 +76,3 @@
 
 ---
 
-<p align="center">
-  💡 <i>"Research is creating new knowledge."</i>
-</p>
