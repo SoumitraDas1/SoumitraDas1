@@ -30,20 +30,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitraDas1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoumitraDas1&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
