@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SoumitraDas1&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/SoumitraDas1?label=Followers&style=flat&color=blue" />
+  <!-- <img src="https://img.shields.io/github/followers/SoumitraDas1?label=Followers&style=flat&color=blue" /> -->
   <img src="https://img.shields.io/github/stars/SoumitraDas1?label=Stars&style=flat&color=yellow" />
 </p>
 
