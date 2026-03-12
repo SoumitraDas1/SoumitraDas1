@@ -19,24 +19,39 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Ph.D. Research Scholar in **Computer Science**
-- 🤖 Research focus: **Machine Learning, Deep Learning & AI**
-- 🧠 Interested in **applied AI, data-driven systems & research publications**
-- 🤝 Open to **research collaboration & open-source contributions**
+
+<table border="0" width="100%">
+<tr>
+<td width="60%">
+
+- 🎓 Ph.D. Research Scholar in **Computer Science**  
+- 🤖 Research focus: **Machine Learning, Deep Learning & AI**  
+- 🧠 Interested in **applied AI, data-driven systems & research publications**  
+- 🤝 Open to **research collaboration & open-source contributions**  
 - 📫 Email: **bittujbr@gmail.com**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=tokyonight&hide_border=true" /> -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=tokyonight&hide_border=true" />
-</p>
 
-<!-- <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitraDas1&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumitraDas1&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SoumitraDas1&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumitraDas1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
